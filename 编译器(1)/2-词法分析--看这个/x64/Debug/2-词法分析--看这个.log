@@ -1,0 +1,5 @@
+﻿  complier.cpp
+  main.cpp
+  正在生成代码...
+H:\王道_c\编译器(1)\2-词法分析--看这个\complier.cpp(124): warning C4715: “split”: 不是所有的控件路径都返回值
+  2-词法分析--看这个.vcxproj -> H:\王道_c\编译器(1)\x64\Debug\4-词法分析--看这个.exe
